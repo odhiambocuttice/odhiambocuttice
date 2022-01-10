@@ -24,7 +24,9 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://cdn-images-1.medium.com/max/1200/1*DG5eBssbHsAyh_RtTRz8mQ@2x.png" />]
+[<img align="left" alt="Figma" width="26px" src="https://cdn-images-1.medium.com/max/1200/1*DG5eBssbHsAyh_RtTRz8mQ@2x.png" />]
+[<img align="left" alt="Adobe" width="26px" src="https://logos-download.com/wp-content/uploads/2016/09/Adobe_Creative_Cloud_logo.png" />]
+
 
 [website]: https://cuttice.netlify.app
 [linkedin]: https://www.linkedin.com/in/cuttice-omondi
