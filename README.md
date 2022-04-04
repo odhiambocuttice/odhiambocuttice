@@ -1,6 +1,6 @@
 ### Hi there, I'm Cuttice - [website] 👋 
 
-[![Website](https://img.shields.io/website?label=cuttice.netlify.app&style=for-the-badge&url=https://cuttice.netlify.app)](https://cuttice.netlify.app/)
+[![Website](https://img.shields.io/website?label=https://cutticeodhiambo.netlify.app&style=for-the-badge&url=https://cutticeodhiambo.netlify.app)](https://cutticeodhiambo.netlify.app/)
 
 ## I'm Sofware Engineer!!
 
