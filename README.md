@@ -28,5 +28,6 @@
 [<img align="left" alt="Adobe" width="26px" src="https://logos-download.com/wp-content/uploads/2016/09/Adobe_Creative_Cloud_logo.png" />]
 
 
-[website]: https://cuttice.netlify.app
+[website]: https://cutticeodhiambo.netlify.app/
+<!-- https://cuttice.netlify.app -->
 [linkedin]: https://www.linkedin.com/in/cuttice-omondi
