@@ -4,9 +4,8 @@
 
 ## I'm Sofware Engineer!!
 
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I'm an Amatuer Photographer, Graphic Designer ish🤣
-- 👯 I’m looking to collaborate on open source projects
+- 🌱 Doing Frontend and Backend
+- ⚡ Fun fact: I'm an Amatuer Photographer
 
 ### Connect with me:
 
