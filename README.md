@@ -1,11 +1,11 @@
 ### Hi there, I'm Cuttice - [website] 👋 
 
-[![Website](https://img.shields.io/website?label=https://cutticeodhiambo.netlify.app&style=for-the-badge&url=https://cutticeodhiambo.netlify.app)](https://cutticeodhiambo.netlify.app/)
+[![Website](https://img.shields.io/website?label=https://www.cuttice.website/&style=for-the-badge&url=https://www.cuttice.website/)](https://www.cuttice.website/)
 
 ## I'm Sofware Engineer!!
 
 - 🌱 Doing Frontend and Backend
-- ⚡ Fun fact: I'm an Amatuer Photographer
+- ⚡ Fun fact: I'm an Amateur Photographer
 
 ### Connect with me:
 
@@ -27,6 +27,6 @@
 [<img align="left" alt="Adobe" width="26px" src="https://logos-download.com/wp-content/uploads/2016/09/Adobe_Creative_Cloud_logo.png" />]
 
 
-[website]: https://cutticeodhiambo.netlify.app/
+[website]: https://www.cuttice.website/
 <!-- https://cuttice.netlify.app -->
 [linkedin]: https://www.linkedin.com/in/cuttice-omondi
